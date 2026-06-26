@@ -14,5 +14,7 @@ DevType is an interactive single-page design utility workbench crafted with mode
 *  **Client Array Reductions:** Parses nested matrix datasets inline to compute categories and output formatting code strings effortlessly without layout frame drop vulnerabilities.
 
 ##  Running Instructions
+
+
 1. Install project layout bundles: `npm install`
 2. Run development compiler process: `npm run dev`
