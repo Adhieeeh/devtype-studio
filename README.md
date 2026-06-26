@@ -1,5 +1,6 @@
 #  DevType — Real-Time Typography Playground Workbench (Next.js)
 
+
 DevType is an interactive single-page design utility workbench crafted with modern Next.js client component logic patterns. It acts as a performance-isolated font sandbox workspace, combining reactive component hooks alongside dynamic third-party layout stylesheet injection streams to compile ready-to-ship CSS variable syntax strings instantly.
 
 ##  Technical Architecture Overview
