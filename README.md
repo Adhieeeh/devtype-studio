@@ -18,3 +18,5 @@ DevType is an interactive single-page design utility workbench crafted with mode
 
 1. Install project layout bundles: `npm install`
 2. Run development compiler process: `npm run dev`
+
+-----------------------------------------------------------------------------------
